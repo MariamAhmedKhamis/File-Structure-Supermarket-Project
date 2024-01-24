@@ -1,0 +1,13 @@
+﻿  Product.cpp
+C:\Users\mostafa\Downloads\Supermarket_Project\Supermarket_Project\Product.cpp(27,79): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mostafa\Downloads\Supermarket_Project\Supermarket_Project\Product.cpp(29,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mostafa\Downloads\Supermarket_Project\Supermarket_Project\Product.cpp(30,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mostafa\Downloads\Supermarket_Project\Supermarket_Project\Product.cpp(31,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mostafa\Downloads\Supermarket_Project\Supermarket_Project\Product.cpp(32,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mostafa\Downloads\Supermarket_Project\Supermarket_Project\Product.cpp(71,96): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\mostafa\Downloads\Supermarket_Project\Supermarket_Project\Product.cpp(74,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mostafa\Downloads\Supermarket_Project\Supermarket_Project\Product.cpp(78,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mostafa\Downloads\Supermarket_Project\Supermarket_Project\Product.cpp(82,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mostafa\Downloads\Supermarket_Project\Supermarket_Project\Product.cpp(86,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mostafa\Downloads\Supermarket_Project\Supermarket_Project\Product.cpp(234,29): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Supermarket_Project.vcxproj -> C:\Users\mostafa\Downloads\Supermarket_Project\x64\Debug\Supermarket_Project.exe
